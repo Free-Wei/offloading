@@ -14,7 +14,7 @@
 
 1.To reproduce the results the same as numerical results in the paper, run the script `main.py`:
 ```
-cd Doffloading
+cd offloading
 python3 main.py
 ```
 
