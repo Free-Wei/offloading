@@ -20,6 +20,6 @@ python3 main.py
 
 
 # Tips
-- All performance measures are computed over 50 independent runs in the paper, feel free to change `test_times` in the above script.
+- All performance measures are computed over 50 or 20 independent runs in the paper, feel free to change `test_times` in the above script.
 
 - All data and figures will be saved.
