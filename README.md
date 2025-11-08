@@ -1,4 +1,4 @@
-# CCMAB: Chance constrained Multi-Armed Bandits: Formulation, Analysis and Application to Task Offloading
+# Chance-Constrained Task Offloading for Reliability Guarantees in Multi-Tenant Networks
 
 
 # Requirements
