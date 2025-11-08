@@ -3,7 +3,7 @@ import numpy as np
 import collections
 import copy
 import math
-
+####Offloading class
 class offloading:
     def __init__(self, delay, K, M, T, mu, reliability, deadline):
         self.T = T
