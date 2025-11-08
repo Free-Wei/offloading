@@ -7,7 +7,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from tqdm import tqdm
 from offloading import *
-
+## Plot figures
 def plot_figure(test_times, delay, K, M, T, mu, reliability, deadline, sym):
     regret_total = np.zeros((T, test_times))
     real_total = np.zeros((T, M, test_times))
