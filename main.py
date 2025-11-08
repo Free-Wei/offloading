@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 print('========================= running 1 =========================')
 # ============= 
-# Parameter 
+# Parameters
 # ============= 
 M = 5
 K = 2
